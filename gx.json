@@ -11,7 +11,7 @@
     "公告内容": "软件播放推荐 看看4K\n\n4K源下载时勿暂停否则会出错\n\n报毒为误报绝无病毒\n\n广告按返回键即可关闭",
     "主服务器": "https://ax-6ku.pages.dev/bm/gx.json",
     "主服务器1": "https://ax-6ku.pages.dev/gx.json",
-    "主服务器2": "https://868945ce.ax-6ku.pages.dev/gx.json",
+    "主服务器2": "https://99d300eb.ax-6ku.pages.dev/gx.json",
     "弹幕总开关": "true",
     "弹幕关键词": "qq,youku,qiyi,mgtv",
     "自建弹幕api": "https://api.danmu.icu/?ac=dm&url=",
@@ -37,4 +37,5 @@
     "个人中心信息流广告开关": "false",
     "licenceURL": "https://license.vod2.myqcloud.com/license/v2/1301220494_1/v_cube.license",
     "licenceKey": "78fe39c14b3f584f2c795856da47d1a0"
+
 }
