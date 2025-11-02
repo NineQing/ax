@@ -1,0 +1,70 @@
+{
+    "list": [
+        {
+            "type_id": 0,
+            "vlist": [
+                {
+                    "vod_id": "0",
+                    "vod_name": "遮天",
+                    "vod_pic": "https://vcover-hz-pic.puui.qpic.cn/vcover_hz_pic/0/mzc00200n53vkqc1724383106154/0",
+                    "type_id": 1,
+                    "vod_remarks": "登天路，踏歌行",
+                    "vod_time_add": ""
+                },
+                {
+                    "vod_id": "0",
+                    "vod_name": "鹊刀门传奇2",
+                    "vod_pic": "https://vcover-hz-pic.puui.qpic.cn/vcover_hz_pic/0/mzc00200vashbcc1737520373172/0",
+                    "type_id": 1,
+                    "vod_remarks": "赵本山宋小宝爆笑回归",
+                    "vod_time_add": ""
+                }
+            ]
+        },
+        {
+            "type_id": 1,
+            "vlist": [
+                {
+                    "vod_id": "0",
+                    "vod_name": "六姊妹",
+                    "vod_pic": "https://tv.puui.qpic.cn/tv/0/mz_tv_image_frontend_1f0e95-5_1335807334_1739686999138736_pic_1920x800/0",
+                    "type_id": 1,
+                    "vod_remarks": "梅婷吴倩演绎成长与羁绊",
+                    "vis": "剧集"
+                },
+                {
+                    "vod_id": "0",
+                    "vod_name": "千娇百媚",
+                    "vod_pic": "https://tv.puui.qpic.cn/tv/0/mz_tv_image_frontend_1f0e95-5_1519450769_1739437469387619_pic_1920x800/0",
+                    "type_id": 1,
+                    "vod_remarks": "林允方逸伦甜欲拉扯强制爱",
+                    "vis": "剧集"
+                },
+                {
+                    "vod_id": "0",
+                    "vod_name": "红房子",
+                    "vod_pic": "https://tv.puui.qpic.cn/tv/0/mz_tv_image_frontend_1f0e95-5_588183305_1739847866322320_pic_1920x800/0",
+                    "type_id": 1,
+                    "vod_remarks": "翟潇闻周柯宇千禧年青春",
+                    "vis": "剧集"
+                },
+                {
+                    "vod_id": "0",
+                    "vod_name": "鹊刀门2",
+                    "vod_pic": "https://tv.puui.qpic.cn/tv/0/mz_tv_image_frontend_1f0e95-5_2019932833_1737760730361948_pic_1920x800/0",
+                    "type_id": 1,
+                    "vod_remarks": "宋小宝骗局露馅跌落悬崖",
+                    "vis": "剧集"
+                },
+                {
+                    "vod_id": "0",
+                    "vod_name": "遮天 ",
+                    "vod_pic": "https://tv.puui.qpic.cn/tv/0/mz_tv_image_frontend_442f1e-8_391475769_1739868741612803_pic_1920x800/0",
+                    "type_id": 1,
+                    "vod_remarks": "丽城古墓！叶凡独战三天骄",
+                    "vis": "动漫"
+                }
+            ]
+        }
+    ]
+}

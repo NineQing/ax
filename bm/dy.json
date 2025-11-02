@@ -1,0 +1,128 @@
+{
+    "author": "admin",
+    "tx": "https://cdn-us.imgs.moe/2024/12/25/af05eab5-f654-9824-4e14-75a1ab1eb3ba_z4nvDHfvRI.gif",
+    "vpn": "false",
+    "name": "默认",
+    "Subtitle": "空白",
+    "bb": "12",
+    "zypath": [],
+    "jxpath": [
+        {
+            "解析关键词": "nmys2",
+            "解析配置": [
+                {
+                    "jxname": "nm",
+                    "jxapi": "http://119.29.11.197:88/jx/2233nm.php?url=",
+                    "jxua": "",
+                    "jxb": "",
+                    "jxh": "",
+                    "jxlx": "json"
+                }
+            ]
+        },
+        {
+            "解析关键词": "dmbs",
+            "解析配置": [
+                {
+                    "jxname": "dmbs",
+                    "jxapi": "http://119.29.11.197:88/jx/2233dmbs.php?url=",
+                    "jxua": "",
+                    "jxb": "",
+                    "jxh": "",
+                    "jxlx": "json"
+                }
+            ]
+        },
+        {
+            "解析关键词": "yhdm2",
+            "解析配置": [
+                {
+                    "jxname": "yhdm",
+                    "jxapi": "http://119.29.11.197:88/jx/2233yhdm.php?url=",
+                    "jxua": "",
+                    "jxb": "",
+                    "jxh": "",
+                    "jxlx": "json"
+                }
+            ]
+        },
+        {
+            "解析关键词": "jzbd",
+            "解析配置": [
+                {
+                    "jxname": "jzbd",
+                    "jxapi": "http://119.29.11.197:88/jx/2233jzbd.php?url=",
+                    "jxua": "",
+                    "jxb": "",
+                    "jxh": "",
+                    "jxlx": "json"
+                }
+            ]
+        },
+        {
+            "解析关键词": "ffm3u8",
+            "解析配置": [
+                {
+                    "jxname": "ff",
+                    "jxapi": "http://119.29.11.197:88/jx/2233m3u8.php?url=",
+                    "jxua": "",
+                    "jxb": "",
+                    "jxh": "",
+                    "jxlx": "json"
+                }
+            ]
+        },
+        {
+            "解析关键词": "lzm3u8",
+            "解析配置": [
+                {
+                    "jxname": "lz",
+                    "jxapi": "http://119.29.11.197:88/jx/2233m3u8.php?url=",
+                    "jxua": "",
+                    "jxb": "",
+                    "jxh": "",
+                    "jxlx": "json"
+                }
+            ]
+        },
+        {
+            "解析关键词": "BBA",
+            "解析配置": [
+                {
+                    "jxname": "bba",
+                    "jxapi": "http://119.29.11.197:88/jx/2233bba.php?url=",
+                    "jxua": "",
+                    "jxb": "",
+                    "jxh": "",
+                    "jxlx": "json"
+                }
+            ]
+        },
+        {
+            "解析关键词": "ATQP",
+            "解析配置": [
+                {
+                    "jxname": "atqp",
+                    "jxapi": "http://119.29.11.197:88/jx/2233atqp.php?url=",
+                    "jxua": "",
+                    "jxb": "",
+                    "jxh": "",
+                    "jxlx": "json"
+                }
+            ]
+        },
+        {
+            "解析关键词": "ATQP2",
+            "解析配置": [
+                {
+                    "jxname": "atqp2",
+                    "jxapi": "http://119.29.11.197:88/jx/2233atqp.php?url=",
+                    "jxua": "",
+                    "jxb": "",
+                    "jxh": "",
+                    "jxlx": "json"
+                }
+            ]
+        }
+    ]
+}
